@@ -1,0 +1,1 @@
+Player setPos [((getPos polosa) select 0),((getPos polosa) select 1)];

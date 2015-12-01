@@ -1,0 +1,418 @@
+version=11;
+class Mission
+{
+	addOns[]=
+	{
+		"pzn_gc_units",
+		"napf"
+	};
+	addOnsAuto[]=
+	{
+		"pzn_gc_units",
+		"napf"
+	};
+	randomSeed=3369307;
+	class Intel
+	{
+		startWeather=0.1;
+		forecastWeather=0.40000001;
+		year=2010;
+		month=8;
+		day=5;
+		hour=10;
+		minute=0;
+	};
+	class Groups
+	{
+		items=17;
+		class Item0
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14744.643,16.097458,16463.906};
+					azimut=56.486599;
+					id=0;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item1
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14747.189,16.325018,16470.514};
+					azimut=-6.172555;
+					id=1;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item2
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14740.244,16.087818,16467.059};
+					azimut=-6.172555;
+					id=2;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item3
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14737.364,16.076651,16470.146};
+					azimut=-6.172555;
+					id=3;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item4
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14739.189,16.195173,16475.84};
+					azimut=-6.172555;
+					id=4;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item5
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14741.737,16.357384,16483.988};
+					azimut=-174.47556;
+					id=5;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item6
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14739.519,16.356167,16486.047};
+					azimut=-122.37059;
+					id=6;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item7
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14728.826,16.033043,16479.859};
+					azimut=-6.172555;
+					id=7;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item8
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14730.185,16.220793,16486.514};
+					azimut=-173.81955;
+					id=8;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item9
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14731.775,16.303036,16487.85};
+					azimut=73.532806;
+					id=9;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item10
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14728.338,16.249718,16489.238};
+					azimut=57.465569;
+					id=10;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item11
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14726.168,16.227388,16490.416};
+					azimut=-67.655121;
+					id=11;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item12
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14722.037,16.05994,16488.209};
+					azimut=85.720016;
+					id=12;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item13
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14727.849,16.313704,16491.961};
+					azimut=31.318588;
+					id=13;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item14
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14737.304,16.388287,16496.648};
+					azimut=97.262482;
+					id=14;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item15
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14744.24,16.402887,16498.922};
+					azimut=98.398499;
+					id=15;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+		class Item16
+		{
+			side="EAST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14749.988,16.402887,16492.07};
+					azimut=116.61754;
+					id=16;
+					side="EAST";
+					vehicle="pzn_gc_INS_soldier";
+					leader=1;
+					skill=1;
+					init="veh = [this, 60, 120] execVM ""unit.sqf""; this setpos [(getpos this select 0),(getpos this select 1), +1];";
+				};
+			};
+		};
+	};
+};
+class Intro
+{
+	addOns[]=
+	{
+		"napf"
+	};
+	addOnsAuto[]=
+	{
+		"napf"
+	};
+	randomSeed=11807099;
+	class Intel
+	{
+		startWeather=0.1;
+		forecastWeather=0.40000001;
+		year=2010;
+		month=8;
+		day=5;
+		hour=10;
+		minute=0;
+	};
+};
+class OutroWin
+{
+	addOns[]=
+	{
+		"napf"
+	};
+	addOnsAuto[]=
+	{
+		"napf"
+	};
+	randomSeed=745394;
+	class Intel
+	{
+		startWeather=0.1;
+		forecastWeather=0.40000001;
+		year=2010;
+		month=8;
+		day=5;
+		hour=10;
+		minute=0;
+	};
+};
+class OutroLoose
+{
+	addOns[]=
+	{
+		"napf"
+	};
+	addOnsAuto[]=
+	{
+		"napf"
+	};
+	randomSeed=12597148;
+	class Intel
+	{
+		startWeather=0.1;
+		forecastWeather=0.40000001;
+		year=2010;
+		month=8;
+		day=5;
+		hour=10;
+		minute=0;
+	};
+};

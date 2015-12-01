@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ID="Arma2">
+  <Package ID="Missions">
+    <Container ID="SerP">
+<!-- Название миссии -->
+ 	<Key ID="STR_missionname">
+		<Original>
+		Please wait...
+		</Original>
+	</Key> 
+<!-- информация для всех -->
+	<Key ID="credits">
+		<Original>
+		Автор миссии:&lt;br/&gt;
+		</Original>
+	</Key>
+	<Key ID="convent">
+		<Original>
+		Описание работы триггеров и т.п.
+		</Original>
+	</Key>
+<!-- информация для прессы -->
+	<Key ID="situation_tv">
+		<Original>
+		Описание ситуации для прессы.
+		</Original>
+	</Key>
+<!-- информация для bluefor -->
+	<Key ID="situation_bf">
+		<Original>
+		Описание ситуации для синей стороны.
+		</Original>
+	</Key>
+	<Key ID="task_bf">
+		<Original>
+		Задачи для синей стороны.
+		</Original>
+	</Key>
+	<Key ID="execution_bf">
+		<Original>
+		Выполнение для синей стороны.
+		</Original>
+	</Key>
+	<Key ID="machinery_bf">
+		<Original>
+		Вооружение синей стороны.
+		&lt;br/&gt;&lt;br/&gt;Пример:
+		&lt;br/&gt;&lt;br/&gt;HQ Rangers:
+		&lt;br/&gt;- 4X M4A1 из них 1 M4A1 ACOG,1 M4A1 AIM
+		&lt;br/&gt;&lt;br/&gt;75th Ranger Regiment:
+		&lt;br/&gt;- 16x M4A1 их них 4 M4A1 M203 3 M4A1 ACOG 4 M4A1 AIM
+		&lt;br/&gt;- 2X M240
+		&lt;br/&gt;- 2X MK12 SPR
+		&lt;br/&gt;- 4X M249
+		&lt;br/&gt;- 1X M3 MAAWS
+		&lt;br/&gt;- 12x M136
+		&lt;br/&gt;M1151 x 4, M1126, M1127
+		&lt;br/&gt;&lt;br/&gt;
+		</Original>
+	</Key>
+	<Key ID="enemy_bf">
+		<Original>
+		Информация о противнике для синей стороны.
+		</Original>
+	</Key>
+<!-- информация для redfor -->
+	<Key ID="situation_rf">
+		<Original>
+		Описание ситуации для красной стороны.
+		</Original>
+	</Key>
+	<Key ID="task_rf">
+		<Original>
+		Задачи для красной стороны.
+		</Original>
+	</Key>
+	<Key ID="machinery_rf">
+		<Original>
+		Вооружение красной стороны.
+		&lt;br/&gt;&lt;br/&gt;Пример:
+		&lt;br/&gt;&lt;br/&gt;Управление:
+		&lt;br/&gt;- 2x M16A2
+		&lt;br/&gt;- 1x ПК
+		&lt;br/&gt;SUV&lt;br/&gt;
+		&lt;br/&gt;Штурмовые группы:
+		&lt;br/&gt;- 12x M16A2 из них 6 M16A2 Scope
+		&lt;br/&gt;- 6x  АК74+ПГ
+		&lt;br/&gt;- 6х  ПК
+		&lt;br/&gt;- 6х  РПК
+		&lt;br/&gt;- 6х  АК74У
+		&lt;br/&gt;- 6х  HK G3SG\1
+		&lt;br/&gt;- 12x M72A2 из них 6 в технике
+		&lt;br/&gt;5х БТР-40
+		&lt;br/&gt;всего в штурмовых группах 48 человек
+		</Original>
+	</Key>
+	<Key ID="execution_rf">
+		<Original>
+		Выполнение для красной стороны.
+		</Original>
+	</Key>
+	<Key ID="enemy_rf">
+		<Original>
+		Информация о противнике для красной стороны.
+		</Original>
+	</Key>
+<!-- информация для независимых -->
+	<Key ID="situation_guer">
+		<Original>
+		Описание ситуации для независимых.
+		</Original>
+	</Key>
+	<Key ID="task_guer">
+		<Original>
+		Задачи для независимых.
+		</Original>
+	</Key>
+	<Key ID="machinery_guer">
+		<Original>
+		Вооружение независимых.
+		</Original>
+	</Key>
+	<Key ID="execution_guer">
+		<Original>
+		Выполнение для независимых.
+		</Original>
+	</Key>
+	<Key ID="enemy_guer">
+		<Original>
+		Информация о противнике для независимых.
+		</Original>
+	</Key>
+<!-- заголовки в заметках -->
+	<Key ID="groups_title">
+		<Original>
+		Отряды
+		</Original>
+	</Key>
+	<Key ID="credits_title">
+		<Original>
+		Авторы
+		</Original>
+	</Key>
+	<Key ID="situation_title">
+		<Original>
+		Общее положение дел
+		</Original>
+	</Key>
+	<Key ID="task_title">
+		<Original>
+		Поставленная задача
+		</Original>
+	</Key>
+	<Key ID="execution_title">
+		<Original>
+		Исполнение
+		</Original>
+	</Key>
+	<Key ID="machinery_title">
+		<Original>
+		Техника и вооружение
+		</Original>
+	</Key>
+	<Key ID="enemy_title">
+		<Original>
+		Противник
+		</Original>
+	</Key>
+	<Key ID="convent_title">
+		<Original>
+		Условности
+		</Original>
+	</Key>
+    </Container>
+  </Package>
+</Project>

@@ -1,0 +1,1 @@
+[] spawn ace_fnc_startSpectator;

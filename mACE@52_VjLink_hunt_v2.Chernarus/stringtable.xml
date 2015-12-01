@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ID="Arma2">
+  <Package ID="Missions">
+    <Container ID="SerP">
+<!-- Название миссии -->
+ 	<Key ID="STR_missionname">
+		<Original>
+		Охота на VjLink'а
+		</Original>
+	</Key> 
+<!-- информация для всех -->
+	<Key ID="credits">
+		<Original>
+		Авторы миссии: Yol, Mafe, Luchezar, Gas
+		</Original>
+	</Key>
+	<Key ID="convent">
+		<Original>
+ИНФОРМАЦИЯ ДЛЯ ВСЕХ:
+&lt;br/&gt;- Обеим сторонам запрещено пересекать и находиться в&lt;marker name = 'Z1'&gt; чёрном маркере&lt;/marker&gt;.
+&lt;br/&gt;- Зеленые не могут выходить из синего маркера (Кроме вертолета, головорезов и снайпера).
+&lt;br/&gt;- VjLink находится в одном из оранжевых маркеров: &lt;marker name = 'K1'&gt;1&lt;/marker&gt;,&lt;marker name = 'K2'&gt;2&lt;/marker&gt;,&lt;marker name = 'K3'&gt;3&lt;/marker&gt;,&lt;marker name = 'K4'&gt;4&lt;/marker&gt;,&lt;marker name = 'K5'&gt;5&lt;/marker&gt;
+&lt;br/&gt;- Вертолету взлет разрешен спустя 5 минут после окончания фризтайма (&lt;marker name = 'Z2'&gt;зеленый маркер&lt;/marker&gt; сменит цвет на оранжевый).
+		</Original>
+	</Key>
+
+
+<!-- информация для redfor -->
+	<Key ID="situation_rf">
+		<Original>
+		Шёл 2017 год. Опасный преступник под псевдонимом VjLink укрылся в Черногорске и теперь оттуда убеждает людей присоединиться к нему, с целью совершить государственный преворот. Верховный главнокомандующий отправил нас нейтрализовать обьект.
+		По данным нашей разведки, они где-то умудрились закупить НАТОвское оружие.
+		</Original>
+	</Key>
+	<Key ID="task_rf">
+		<Original>
+		Уничтожить  VjLinkа. Он может находиться в одном из оранжевых маркеров.
+		</Original>
+	</Key>
+	
+	<Key ID="execution_rf">
+		<Original>
+		Товарищ командир, у вас полная свобода действий.	
+		</Original>
+	</Key>
+	<Key ID="enemy_rf">
+		<Original>
+		 VjLink и его сподвижники.
+		</Original>
+	</Key>
+<!-- информация для независимых -->
+	<Key ID="situation_guer">
+		<Original>
+		Нас хотят лишить нашего предводителя, мы должны помешать им! Мы сражаемся за правое дело!
+		</Original>
+	</Key>
+	<Key ID="task_guer">
+		<Original>
+		Нужно продержаться, отбить атаку неверных, и спасти нашего Вождя!
+		</Original>
+	</Key>
+	
+	<Key ID="execution_guer">
+		<Original>
+		Нам нельзя выходить за синий триггер (Кроме головорезов и снайпера). Остальное на усмотрение нашего предводителя.
+		</Original>
+	</Key>
+	<Key ID="enemy_guer">
+		<Original>
+		Правительственные войска.
+		</Original>
+	</Key>
+<!-- заголовки в заметках -->
+	<Key ID="groups_title">
+		<Original>
+		Отряды
+		</Original>
+	</Key>
+	<Key ID="credits_title">
+		<Original>
+		Авторы
+		</Original>
+	</Key>
+	<Key ID="situation_title">
+		<Original>
+		Общее положение дел
+		</Original>
+	</Key>
+	<Key ID="task_title">
+		<Original>
+		Поставленная задача
+		</Original>
+	</Key>
+	<Key ID="execution_title">
+		<Original>
+		Исполнение
+		</Original>
+	</Key>
+	<Key ID="machinery_title">
+		<Original>
+		Техника и вооружение
+		</Original>
+	</Key>
+	<Key ID="enemy_title">
+		<Original>
+		Противник
+		</Original>
+	</Key>
+	<Key ID="convent_title">
+		<Original>
+		Условности
+		</Original>
+	</Key>
+	<Key ID="STR_ru_call">
+	<Russian>
+	бойцы МВД
+	</Russian>
+	<Original>
+	MVD soldiers
+	</Original>
+	</Key>
+	<Key ID="STR_napa_call">
+	<Russian>
+	армия VjLink'а
+	</Russian>
+	<Original>
+	VjLink's army
+	</Original>
+	</Key>
+    </Container>
+  </Package>
+</Project>

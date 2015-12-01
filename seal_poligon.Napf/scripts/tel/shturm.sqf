@@ -1,0 +1,1 @@
+Player setPos [((getPos shturm) select 0),((getPos shturm) select 1)];

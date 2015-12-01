@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ID="Arma2">
+  <Package ID="Missions">
+    <Container ID="SerP">
+<!-- Название миссии -->
+ 	<Key ID="STR_missionname">
+		<Original>
+		Тренировочный полигон отряда SEAL
+		</Original>
+	</Key> 
+<!-- информация для всех -->
+	<Key ID="credits">
+		<Original>
+		Автор миссии: Yol, Gas.
+		</Original>
+	</Key>
+<!-- информация для прессы -->
+	<Key ID="situation_tv">
+		<Original>
+		Описание ситуации для прессы.
+		</Original>
+	</Key>
+<!-- информация для bluefor -->
+	<Key ID="situation_bf">
+		<Original>
+		Тренировочный полигон отряда SEAL.
+		&lt;br/&gt;&lt;br/&gt;&lt;img image="images\logo.jpg"/&gt;
+		</Original>
+	</Key>
+<!-- информация для redfor -->
+	<Key ID="situation_rf">
+		<Original>
+		Описание ситуации для красной стороны.
+		</Original>
+	</Key>
+<!-- информация для независимых -->
+	<Key ID="situation_guer">
+		<Original>
+		Описание ситуации для независимых.
+		</Original>
+	</Key>
+<!-- заголовки в заметках -->
+	<Key ID="groups_title">
+		<Original>
+		Отряды
+		</Original>
+	</Key>
+	<Key ID="credits_title">
+		<Original>
+		Авторы
+		</Original>
+	</Key>
+	<Key ID="situation_title">
+		<Original>
+		Общее положение дел
+		</Original>
+	</Key>
+    </Container>
+  </Package>
+</Project>

@@ -1,0 +1,1 @@
+Player setPos [((getPos tank) select 0),((getPos tank) select 1)];

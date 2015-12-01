@@ -1,0 +1,490 @@
+version=11;
+class Mission
+{
+	addOns[]=
+	{
+		"takistan",
+		"cacharacters2",
+		"CAWheeled",
+		"cacharacters_e",
+		"ca_highcommand",
+		"acex_usnavy_men_usmc"
+	};
+	addOnsAuto[]=
+	{
+		"acex_usnavy_men_usmc",
+		"ca_highcommand",
+		"cacharacters_e",
+		"takistan"
+	};
+	randomSeed=5074141;
+	class Intel
+	{
+		startWeather=0.40000001;
+		forecastWeather=0.40000001;
+		year=2009;
+		day=28;
+		hour=16;
+		minute=20;
+	};
+	class Groups
+	{
+		items=5;
+		class Item0
+		{
+			side="WEST";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={5720.5659,83.040001,11312.245};
+					azimut=95;
+					special="NONE";
+					id=0;
+					side="WEST";
+					vehicle="ACE_USMC_Soldier_Officer_D";
+					player="PLAY CDG";
+					leader=1;
+					rank="LIEUTENANT";
+					skill=1;
+					init="[this,""USMC"",""OFF""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Командир";
+					synchronizations[]={1};
+				};
+			};
+		};
+		class Item1
+		{
+			side="LOGIC";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={5681.4395,83.040001,11286.881};
+					id=2;
+					side="LOGIC";
+					vehicle="HighCommandSubordinate";
+					leader=1;
+					lock="UNLOCKED";
+					skill=0.60000002;
+					synchronizations[]={1};
+				};
+			};
+		};
+		class Item2
+		{
+			side="LOGIC";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={5702.8862,83.040001,11304.17};
+					id=1;
+					side="LOGIC";
+					vehicle="HighCommand";
+					leader=1;
+					lock="UNLOCKED";
+					skill=0.60000002;
+					synchronizations[]={2,0};
+				};
+			};
+		};
+		class Item3
+		{
+			side="WEST";
+			class Vehicles
+			{
+				items=12;
+				class Item0
+				{
+					position[]={5728.3633,83.040001,11303.57};
+					azimut=305.75671;
+					special="NONE";
+					id=3;
+					side="WEST";
+					vehicle="US_Delta_Force_TL_EP1";
+					leader=1;
+					rank="SERGEANT";
+					skill=0.60000002;
+					init="[this,""USRANG"",""SL""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="1st Squad Leader";
+				};
+				class Item1
+				{
+					position[]={5727.6113,83.040001,11302.754};
+					azimut=305.75671;
+					special="NONE";
+					id=4;
+					side="WEST";
+					vehicle="US_Delta_Force_TL_EP1";
+					rank="CORPORAL";
+					skill=0.60000002;
+					init="[this,""USRANG"",""TL""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Alpha Fireteam Leader";
+				};
+				class Item2
+				{
+					position[]={5727.0723,83.040001,11302.067};
+					azimut=305.75671;
+					special="NONE";
+					id=5;
+					side="WEST";
+					vehicle="US_Delta_Force_AR_EP1";
+					skill=0.60000002;
+					init="[this,""USRANG"",""AR""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Automatic Rifleman";
+				};
+				class Item3
+				{
+					position[]={5726.4482,83.040001,11301.354};
+					azimut=305.75671;
+					special="NONE";
+					id=6;
+					side="WEST";
+					vehicle="US_Delta_Force_EP1";
+					skill=0.60000002;
+					init="[this,""USRANG"",""GL""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Grenadier";
+				};
+				class Item4
+				{
+					position[]={5725.7725,83.040001,11300.505};
+					azimut=305.75671;
+					special="NONE";
+					id=8;
+					side="WEST";
+					vehicle="US_Delta_Force_EP1";
+					skill=0.60000002;
+					init="[this,""USRANG"",""AT""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="AT Specialist";
+				};
+				class Item5
+				{
+					position[]={5725.1338,83.040001,11299.792};
+					azimut=305.75671;
+					special="NONE";
+					id=7;
+					side="WEST";
+					vehicle="US_Delta_Force_TL_EP1";
+					rank="CORPORAL";
+					skill=0.60000002;
+					init="[this,""USRANG"",""TL""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Bravo Fireteam Leader";
+				};
+				class Item6
+				{
+					position[]={5724.5835,83.040001,11299.067};
+					azimut=305.75671;
+					special="NONE";
+					id=9;
+					side="WEST";
+					vehicle="US_Delta_Force_AR_EP1";
+					skill=0.60000002;
+					init="[this,""USRANG"",""AR""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Automatic Rifleman";
+				};
+				class Item7
+				{
+					position[]={5723.918,83.040001,11298.333};
+					azimut=305.75671;
+					special="NONE";
+					id=10;
+					side="WEST";
+					vehicle="US_Delta_Force_EP1";
+					rank="CORPORAL";
+					skill=0.60000002;
+					init="[this,""USRANG"",""GL""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Grenadier";
+				};
+				class Item8
+				{
+					position[]={5723.3262,83.040001,11297.563};
+					azimut=305.75671;
+					special="NONE";
+					id=11;
+					side="WEST";
+					vehicle="US_Delta_Force_Marksman_EP1";
+					skill=0.60000002;
+					init="[this,""USRANG"",""DM""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Designated Marksman";
+				};
+				class Item9
+				{
+					position[]={5722.7847,83.040001,11296.909};
+					azimut=305.75671;
+					special="NONE";
+					id=12;
+					side="WEST";
+					vehicle="US_Delta_Force_MG_EP1";
+					rank="SERGEANT";
+					skill=0.60000002;
+					init="[this,""USRANG"",""MG""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Machinegunner";
+				};
+				class Item10
+				{
+					position[]={5722.1675,83.040001,11296.18};
+					azimut=305.75671;
+					special="NONE";
+					id=13;
+					side="WEST";
+					vehicle="US_Delta_Force_EP1";
+					rank="SERGEANT";
+					skill=0.60000002;
+					init="[this,""USRANG"",""MGAS""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Asst. Machinegunner";
+				};
+				class Item11
+				{
+					position[]={5721.7329,83.040001,11295.587};
+					azimut=305.75671;
+					special="NONE";
+					id=14;
+					side="WEST";
+					vehicle="US_Delta_Force_EP1";
+					rank="SERGEANT";
+					skill=0.60000002;
+					init="[this,""USRANG"",""AB""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Ammo bearer";
+				};
+			};
+		};
+		class Item4
+		{
+			side="WEST";
+			class Vehicles
+			{
+				items=12;
+				class Item0
+				{
+					position[]={5741.3389,83.040001,11317.319};
+					azimut=308.68027;
+					special="NONE";
+					id=15;
+					side="WEST";
+					vehicle="US_Delta_Force_TL_EP1";
+					leader=1;
+					rank="SERGEANT";
+					skill=0.60000002;
+					init="[this,""USRANG"",""SL""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="2nd Squad Leader";
+				};
+				class Item1
+				{
+					position[]={5740.542,83.040001,11316.55};
+					azimut=308.68027;
+					special="NONE";
+					id=16;
+					side="WEST";
+					vehicle="US_Delta_Force_TL_EP1";
+					rank="CORPORAL";
+					skill=0.60000002;
+					init="[this,""USRANG"",""TL""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Alpha Fireteam Leader";
+				};
+				class Item2
+				{
+					position[]={5739.9653,83.040001,11315.892};
+					azimut=308.68027;
+					special="NONE";
+					id=17;
+					side="WEST";
+					vehicle="US_Delta_Force_AR_EP1";
+					skill=0.60000002;
+					init="[this,""USRANG"",""AR""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Automatic Rifleman";
+				};
+				class Item3
+				{
+					position[]={5739.3159,83.040001,11315.206};
+					azimut=308.68027;
+					special="NONE";
+					id=18;
+					side="WEST";
+					vehicle="US_Delta_Force_EP1";
+					skill=0.60000002;
+					init="[this,""USRANG"",""GL""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Grenadier";
+				};
+				class Item4
+				{
+					position[]={5738.5879,83.040001,11314.396};
+					azimut=308.68027;
+					special="NONE";
+					id=20;
+					side="WEST";
+					vehicle="US_Delta_Force_EP1";
+					skill=0.60000002;
+					init="[this,""USRANG"",""AT""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="AT Specialist";
+				};
+				class Item5
+				{
+					position[]={5737.9063,83.040001,11313.716};
+					azimut=308.68027;
+					special="NONE";
+					id=19;
+					side="WEST";
+					vehicle="US_Delta_Force_TL_EP1";
+					rank="CORPORAL";
+					skill=0.60000002;
+					init="[this,""USRANG"",""TL""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Bravo Fireteam Leader";
+				};
+				class Item6
+				{
+					position[]={5737.3237,83.040001,11313.02};
+					azimut=308.68027;
+					special="NONE";
+					id=21;
+					side="WEST";
+					vehicle="US_Delta_Force_AR_EP1";
+					skill=0.60000002;
+					init="[this,""USRANG"",""AR""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Automatic Rifleman";
+				};
+				class Item7
+				{
+					position[]={5736.6323,83.040001,11312.32};
+					azimut=308.68027;
+					special="NONE";
+					id=22;
+					side="WEST";
+					vehicle="US_Delta_Force_EP1";
+					rank="CORPORAL";
+					skill=0.60000002;
+					init="[this,""USRANG"",""GL""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Grenadier";
+				};
+				class Item8
+				{
+					position[]={5735.9927,83.040001,11311.575};
+					azimut=308.68027;
+					special="NONE";
+					id=23;
+					side="WEST";
+					vehicle="US_Delta_Force_Marksman_EP1";
+					skill=0.60000002;
+					init="[this,""USRANG"",""DM""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Designated Marksman";
+				};
+				class Item9
+				{
+					position[]={5735.4243,83.040001,11310.952};
+					azimut=308.68027;
+					special="NONE";
+					id=24;
+					side="WEST";
+					vehicle="US_Delta_Force_MG_EP1";
+					rank="SERGEANT";
+					skill=0.60000002;
+					init="[this,""USRANG"",""MG""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Machinegunner";
+				};
+				class Item10
+				{
+					position[]={5734.77,83.040001,11310.258};
+					azimut=308.68027;
+					special="NONE";
+					id=25;
+					side="WEST";
+					vehicle="US_Delta_Force_EP1";
+					rank="SERGEANT";
+					skill=0.60000002;
+					init="[this,""USRANG"",""MGAS""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Asst. Machinegunner";
+				};
+				class Item11
+				{
+					position[]={5734.3076,83.040001,11309.685};
+					azimut=308.68027;
+					special="NONE";
+					id=26;
+					side="WEST";
+					vehicle="US_Delta_Force_EP1";
+					rank="SERGEANT";
+					skill=0.60000002;
+					init="[this,""USRANG"",""AB""] call compile preprocessFileLineNumbers ""Equipment\_process_units.sqf""";
+					description="Ammo bearer";
+				};
+			};
+		};
+	};
+	class Markers
+	{
+		items=1;
+		class Item0
+		{
+			position[]={5650.9653,83.040001,11397.489};
+			name="Base";
+			type="Faction_US";
+			a=1.7;
+		};
+	};
+};
+class Intro
+{
+	addOns[]=
+	{
+		"takistan"
+	};
+	addOnsAuto[]=
+	{
+		"takistan"
+	};
+	randomSeed=8220235;
+	class Intel
+	{
+		startWeather=0.40000001;
+		forecastWeather=0.40000001;
+		year=2009;
+		day=28;
+		hour=16;
+		minute=20;
+	};
+};
+class OutroWin
+{
+	addOns[]=
+	{
+		"takistan"
+	};
+	addOnsAuto[]=
+	{
+		"takistan"
+	};
+	randomSeed=16063166;
+	class Intel
+	{
+		startWeather=0.40000001;
+		forecastWeather=0.40000001;
+		year=2009;
+		day=28;
+		hour=16;
+		minute=20;
+	};
+};
+class OutroLoose
+{
+	addOns[]=
+	{
+		"takistan"
+	};
+	addOnsAuto[]=
+	{
+		"takistan"
+	};
+	randomSeed=10691089;
+	class Intel
+	{
+		startWeather=0.40000001;
+		forecastWeather=0.40000001;
+		year=2009;
+		day=28;
+		hour=16;
+		minute=20;
+	};
+};
