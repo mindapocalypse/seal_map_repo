@@ -1,0 +1,200 @@
+﻿LANGUAGE, English, Russian
+
+STR_RIP_COMMANDER, [Marines] Commander, [Морская пехота] Командир взвода
+STR_RIP_MOTO_MEDIC, [Marines] Medic, [Морская пехота] Санинструктор
+STR_RIP_MOTO_MASHINEGUNNER, [Marines] Machinegunner, [Морская пехота] Пулеметчик
+STR_RIP_MOTO_ENGINEER, [Marines] Engineer, [Морская пехота] Инженер
+STR_RIP_MOTO_MARKSMAN, [Marines] Marksman, [Морская пехота] Снайпер
+STR_RIP_MOTO_RADIOOPERATOR, [Marines] Radio-operator, [Морская пехота] Радист
+
+STR_RIP_MOTO_SQUADLEADER, [Marines] Squad leader, [Морская пехота] Командир отделения
+STR_RIP_MOTO_TLRIFLEMAN, [Marines] TL Rifleman, [Морская пехота] Старший стрелок
+STR_RIP_MOTO_ENGINEER, [Marines] Engineer, [Морская пехота] Инженер
+STR_RIP_MOTO_AT, [Marines] AT Specialist, [Морская пехота] Гранатометчик
+STR_RIP_MOTO_AAT, [Marines] Asst. AT Specialist, [Морская пехота] Помощник гранатометчика
+STR_RIP_MOTO_ATH, [Marines] AT Specialist (Metis), [Морская пехота] Оператор ПТРК
+STR_RIP_MOTO_AATH, [Marines] Asst. AT Specialist, [Морская пехота] Помощник оператора ПТРК
+STR_RIP_MOTO_RIFLEMAN, [Marines] Rifleman, [Морская пехота] Стрелок
+
+STR_RIP_GRU_SQUADLEADER, [Force Recon] Squad leader, [СпН ГРУ] Командир отделения
+STR_RIP_GRU_MEDIC, [Force Recon] Medic, [СпН ГРУ] Санинструктор
+STR_RIP_GRU_MASHINEGUNNER, [Force Recon] Machinegunner, [СпН ГРУ] Пулеметчик
+STR_RIP_GRU_MARKSMAN, [Force Recon] Marksman, [СпН ГРУ] Снайпер
+STR_RIP_GRU_RIFLEMAN, [Force Recon] Rifleman, [СпН ГРУ] Разведчик
+
+STR_RIP_CREWCOMMANDER, Crew commander, Командир экипажа
+STR_RIP_CREWGUNNER, Crew gunner, Наводчик-оператор
+STR_RIP_CREWDRIVER, Crew driver, Механик-водитель
+
+STR_RIP_PILOT, Pilot, Пилот
+
+STR_RIP_ENABLE, "ENABLE", "ВКЛЮЧЕНО"
+STR_RIP_DISABLE, "DISABLE", "ОТКЛЮЧЕНО"
+STR_RIP_YES, "YES", "ДА"
+STR_RIP_NO, "NO", "НЕТ"
+STR_RIP_TIME, "Time:", "ВРЕМЯ СУТОК"
+STR_RIP_DISTANCE, "VIEWDISTANCE, M.:", "ДИСТАНЦИЯ ВИДИМОСТИ, М."
+STR_RIP_WOUNDSTIME, "WOUNDS TIME, SEC.", "ВРЕМЯ ДО СМЕРТИ ПРИ РАНЕНИИ, СЕК."
+STR_RIP_VEHICLEMARKERS, "VEHICLE MARKERS", "МАРКЕРЫ ТЕХНИКИ НА КАРТЕ"
+STR_RIP_PLAYERMARKERS, "PLAYER MARKES", "МАРКЕРЫ ИГРОКОВ НА КАРТЕ"
+STR_RIP_AISKILL, "AI SKILL", "УРОВЕНЬ БОТОВ"
+STR_RIP_LOW, "LOW", "НИЗКИЙ"
+STR_RIP_VERYLOW, "VERY LOW", "ОЧЕНЬ НИЗКО"
+STR_RIP_NORMAL, "NORMAL", "НОРМАЛЬНЫЙ"
+STR_RIP_HIGHT, "HIGHT", "ВЫСОКИЙ"
+STR_RIP_VERYHIGHT, "HIGHT", "МАКСИМАЛЬНО"
+STR_RIP_LITTLE, "LITTLE", "МАЛО"
+STR_RIP_NORMALLY, "NORMALLY", "НОРМАЛЬНО"
+STR_RIP_MANY, "MANY", "МНОГО"
+STR_RIP_VEHICLERESPAWNTIME, "VEHICLE RESPAWN TIME, MIN.", "ВРЕМЯ ВОЗРОЖДЕНИЯ ТЕХНИКИ, МИН."
+STR_RIP_DYNAMICWEATHER, "DINAMIC WEATHER SYSTEM", "ДИНАМИЧЕСКАЯ СИСТЕМА ПОГОДЫ"
+STR_RIP_WEATHERCHANGETIME, "FORECAST CHANGE EVERY, MIN.", "СМЕНА ПОГОДЫ КАЖДЫЕ, МИН."
+STR_RIP_GRASSLAYER, "GRASS LAYER ON START", "УРОВЕНЬ ТРАВЫ ПРИ СТАРТЕ"
+STR_RIP_DISABLEGRASS, "PLAYER CAN DISABLE GRASS", "ИГРОК МОЖЕТ ОТКЛЮЧИТЬ ТРАВУ"
+STR_RIP_CAPTUREVEHICLES, "PLAYERS CAN CAPTURE ENEMY VEHICLES", "ИГРОКИ МОГУТ ЗАХВАТЫВАТЬ ТЕХНИКУ ПРОТИВНИКА"
+STR_RIP_ENEMYAIRPATROLS, "AIR ENEMY PATROLS", "ВОЗДУШНЫЕ ПАТРУЛИ ПРОТИВНИКА"
+STR_RIP_ENEMYGROUNDPATROLS, "GROUND ENEMY PATROLS", "НАЗЕМНЫЕ ПАТРУЛИ ПРОТИВНИКА"
+STR_RIP_ENEMYTOWNPATROLS, "ENEMY PATROLS IN TOWNS", "ПАТРУЛИ ПРОТИВНИКА В ГОРОДАХ"
+STR_RIP_PALLYPOINTS, "RALLY POINTS", "ТОЧКИ СБОРА"
+STR_RIP_MISSIONCOUNT, "NUMBER OF MISSIONS", "КОЛИЧЕСТВО МИССИЙ"
+STR_RIP_DONTSETRALLYPOINTS, "DO NOT SET RALLY POINTS WHEN THE ENEMY IS CLOSER", "НЕ СТАВИТЬ ТОЧКИ СБОРА, ЕСЛИ ПРОТИВНИК БЛИЖЕ"
+STR_RIP_RADIOADDON, "ADDON RADIO", "МОД РАЦИИ"
+STR_RIP_VON, "VON", "VON"
+STR_RIP_ACRE, "ACRE", "ACRE"
+STR_RIP_TASKFORCE, "TF RADIO (LIGHTWEIGHT MODE)", "TF RADIO (УПРОЩЕННЫЙ РЕЖИМ)"
+STR_RIP_TASKFORCESERIOUS, "TF RADIO (SERIOUS MODE)", "TF RADIO (СЕРЬЕЗНЫЙ РЕЖИМ)"
+STR_RIP_PILOTCHECK, "MILITARY HELICOPTERS ONLY FOR PILOTS", "БОЕВЫЕ ВЕРТОЛЕТЫ ТОЛЬКО ДЛЯ ПИЛОТОВ"
+STR_RIP_AICOUNT, "NUMBER OF ENEMY INFANTRIES", "КОЛИЧЕСТВО ПЕХОТЫ ПРОТИВНИКА"
+STR_RIP_AILIGHTVEHCOUNT, "NUMBER OF ENEMY LIGHT VEHICLES", "КОЛИЧЕСТВО ЛЕГКОЙ ТЕХНИКИ ПРОТИВНИКА"
+STR_RIP_AIHEAVYVEHCOUNT, "NUMBER OF ENEMY HEAVY VEHICLES", "КОЛИЧЕСТВО ТЯЖЕЛОЙ ТЕХНИКИ ПРОТИВНИКА"
+STR_RIP_RANDOMTIME, "RANDOM TIME FOR EVERY MISSION", "СЛУЧАЙНОЕ ВРЕМЯ ДЛЯ КАЖДОГО ЗАДАНИЯ"
+STR_RIP_RELOADTIME, "TIME TO REPAIR AND RELOAD VEHICLES ON BASE, MIN.", "ВРЕМЯ РЕМОНТА И ПЕРЕЗАРЯДКИ ТЕХНИКИ НА БАЗЕ, МИН."
+STR_RIP_DISABLECHAT, "DISABLE CHAT :", "ОТКЛЮЧИТЬ ЧАТ"
+STR_RIP_INTROTEXT, "The mission is designed for team play, so the administration reserves the right to delete from the server to the players who do not want to play as a team. \n\n\n\n Game menu - 'T' button\", "Миссия расчитана на командную игру, поэтому администрация оставляет за собой право удалять с сервера игроков, которые не хотят играть в команде.\n\n\n\n Игровое меню - кнопка 'Т'"
+STR_RIP_RESPAWNTEXT, "Try to avoid the revival of the base. Team irretrievably loses points and status!\n Wait medics!", "Старайтесь избегать возрождения на базе. Команда безвозвратно теряет очки и статус!\n Ждите медиков!"
+
+STR_RIP_MARKER_HELISERVICE, "Heli service point", "Ремзона вертолетов"
+STR_RIP_MARKER_LANDSERVICE, "Vehicle service point", "СТО"
+STR_RIP_MARKER_UAV, "UAV", "БПЛА"
+STR_RIP_MARKER_HOSPITAL, "Hospital", "Госпиталь"
+STR_RIP_MARKER_AMMOBOX, "Ammoboxes", "Ящики с вооружением"
+
+STR_RIP_MENUOPTIONS, "Settings", "Настройки"
+STR_RIP_MENUSELECTWEAPONS, "Weapons selection", "Выбор оружия"
+STR_RIP_MENUMODWEAPONS, "Weapon modification", "Модификация оружия"
+STR_RIP_MENUGROUPSTATUS, "Team members", "Состав группы"
+STR_RIP_MENUGROUPSTATUSEMPTY, "Empty", "Никого"
+STR_RIP_MENUTEAMSTATUS, "Team status", "Статус команды"
+STR_RIP_MENUREPAIR, "Repair vehicles", "Ремонтировать технику"
+STR_RIP_LOCKUNLOCK, "Lock\Unlock vehicles", "Блокировать\Разблокировать технику"
+STR_RIP_SETRALLYPOINT, "Set rally point", "Установить точку сбора"
+STR_RIP_MOVETORALLYPOINT, "Move to rallypoint", "Выдвинуться к точке сбора"
+STR_RIP_RALLYPOINT, "Rally point", "Точка сбора"
+STR_RIP_TAKECONTROL, "Take", "Взять под контроль"
+
+STR_RIP_LOWGEAROFF, "High-climbing gear (off)", "Пониженная передача (ВЫКЛ)"
+STR_RIP_LOWGEARON, "High-climbing gear (on)", "Пониженная передача (ВКЛ)",""
+
+STR_RIP_HINTNOVEHICLENEAR, "There are no vehicles nearby.", "Рядом с вами нет техники."
+STR_RIP_HINTCANTREPAIR, "You can not repair this vehicle. Too much damage.", "Вы не можете это починить. Слишком много повреждений."
+STR_RIP_HINTREPAIR, "Repairing %1...", "Идет ремонт %1..."
+STR_RIP_HINTREMAINDAMAGE, "1% damage remaining.", "Осталось %1 повреждений"
+STR_RIP_HINTUNLOCKVEHICLE, "Unlocking %1...", "Разблокировка %1..."
+STR_RIP_HINTLOCKVEHICLE, "Locking %1...", "Блокировка %1..."
+STR_RIP_HINTCANTSETRALLYBASE, "You are too close to the base.<br/>You can not set a rally point.", "Вы слишком близко от базы.<br/>Нельзя установить точку сбора."
+STR_RIP_HINTCANTSETRALLYENEMY, "The enemy is too close.<br/>You can not set a rally point.", "Противник слишком близко.<br/>Нельзя установить точку сбора."
+STR_RIP_HINT_NODEPLOYRALLY, "No rally point placed.", "Нет установленной точки сбора."
+STR_RIP_HINT_MOVETORALLY, "Move to rally point", "Выдвинуться к точке сбора"
+STR_RIP_HINT_DISABLERALLY, "Rally points disable", "Точки сбора отключены."
+
+STR_RIP_HINT_CANTSELECTWEAPON, "You can only choose your weapons at base!", "Выбрать оружие можно только на базе!"
+STR_RIP_HINT_CANTMODWEAPONBASE, "You can only modify your weapons at base!", "Модифицировать оружие можно только на базе!"
+STR_RIP_HINT_CANTMODWEAPON, "Your weapons cannot be modified.", "Ваше оружие не может быть модифицировано."
+STR_RIP_HINT_CANTUSEWEAPON, "You cannot use %1.", "Вы не можете использовать %1."
+STR_RIP_HINT_CANTUSEHELI, "You cannot use military heli.", "Вы не можете использовать боевой вертолет."
+
+STR_RIP_HINT_STARTSERVICING, "Repair, refueling and recharging %1 in %2 minutes. Please stand by...", "Ремонт, заправка и перезарядка %1 займет %2 минут. Ждите..."
+STR_RIP_HINT_ENDSERVICING, "%1 is ready...", "Обслуживание %1 завершено"
+
+STR_RIP_HINT_NEWMISSION, "New mission received", "Получено новое задание"
+STR_RIP_HINT_MISSION, "Mission", "Задание"
+STR_RIP_HINT_MISSIONCOMPLETE, "Mission complete", "Задание выполнено."
+STR_RIP_HINT_MISSIONFAIL, "Mission failed.", "Задание провалено."
+STR_RIP_HINT_MISSIONDEFENSE10, "Enemy infantry will arrive in 10 min.", "До прибытия пехоты противника осталось около 10 мин."
+STR_RIP_HINT_MISSIONDEFENSE5, "Enemy infantry will arrive in 5 min.", "До прибытия пехоты противника осталось около 5 мин."
+
+STR_RIP_HINT_LOSTMISSION, "YOU LOST!", "ВЫ ПРОИГРАЛИ!"
+STR_RIP_HINT_NOOBWIN, "NOOB TEAM, YOU WON!", "КОМАНДА НОВИЧКОВ, ВЫ ПОБЕДИЛИ!"
+STR_RIP_HINT_GOODWIN, "GOOD FIGHTERS, YOU WON!", "БЫВАЛЫЕ БОЙЦЫ, ВЫ ПОБЕДИЛИ!"
+STR_RIP_HINT_EXPWIN, "EXPERIENCEDd FIGHTERS, YOU WON!", "ОПЫТНЫЕ БОЙЦЫ, ВЫ ПОБЕДИЛИ!"
+STR_RIP_HINT_ELITEWIN, "ELITE TEAM, YOU WON!", "ЭЛИТНОЕ ПОДРАЗДЕЛЕНИЕ, ВЫ ПОБЕДИЛИ!"
+STR_RIP_HINT_HEROWIN, "HERO TEAM, YOU WON!", "КОМАНДА ГЕРОЕВ, ВЫ ПОБЕДИЛИ!"
+STR_RIP_HINT_LOOSERWIN, "LOOSER TEAM, YOU WON!", "КОМАНДА НЕУДАЧНИКОВ, ВЫ ПОБЕДИЛИ!"
+STR_RIP_HINT_BASTARDWIN, "BASTARD TEAM, YOU WON!", "КОМАНДА УБЛЮДКОВ, ВЫ ПОБЕДИЛИ!"
+STR_RIP_HINT_ASSHOLEDWIN, "ASSHOLED TEAM, YOU WON!", "КОМАНДА МУДАКОВ, ВЫ ПОБЕДИЛИ!"
+
+STR_RIP_HINT_NOOBTEAM, "Noob team<br/>Points: %1", "Команда новичков<br/>Количество баллов : %1"
+STR_RIP_HINT_GOODFIGHTERS, "Good fighters<br/>Points: %1", "Бывалые бойцы<br/>Количество баллов : %1"
+STR_RIP_HINT_EXPFIGHTERS, "Experienced fighters<br/>Points: %1", "Опытные бойцы<br/>Количество баллов : %1"
+STR_RIP_HINT_ELITETEAM, "Elite team<br/>Points: %1", "Элитное подразделение<br/>Количество баллов : %1"
+STR_RIP_HINT_HEROTEAM, "Hero team<br/>Points: %1", "Команда героев<br/>Количество баллов : %1"
+STR_RIP_HINT_LOOSERTEAM, "Looser team<br/>Points: %1", "Команда неудачников<br/>Количество баллов : %1"
+STR_RIP_HINT_BASTARDTEAM, "Bastard team<br/>Points: %1", "Команда ублюдков<br/>Количество баллов : %1"
+STR_RIP_HINT_ASSHOLEDTEAM, "Assholes team<br/>Points: %1", "Команда мудаков<br/>Количество баллов : %1"
+
+STR_RIP_HINT_LEAVEAREA, "LEAVE THE COMBAT AREA", "ПОКИНЬТЕ ЗОНУ ДЕЙСТВИЙ"
+
+STR_RIP_HINT_ALLSEATSOCCUPIED, "All seats are occupied!", "Все места заняты!"
+STR_RIP_HINT_TOOMUCHSPEED, "Too much speed!", "Слишком большая скорость!"
+STR_RIP_HINT_SITONTOP, "Sit on top", "Сесть на броню"
+
+STR_RIP_DLGSETTINGS, "SETTINGS", "НАСТРОЙКИ"
+STR_RIP_DLGAPPLY, "Apply", "Применить"
+STR_RIP_DLGVIEWDISTANCE, "Viewdistance, m.", "Видимость, м."
+STR_RIP_DLGGRASSLAYER, "Grass layer", "Уровень травы:"
+STR_RIP_DLGDISABLE, "Disable", "Отключить"
+STR_RIP_DLGVERYLOW, "Very low", "Очень низко"
+STR_RIP_DLGLOW, "Low", "Низко"
+STR_RIP_DLGHIGHT, "Hight", "Высоко"
+STR_RIP_DLGVERYHIGHT, "Very hight", "Максимально"
+
+STR_RIP_DLGMODWEAPONS, "WEAPON MODIFICATION", "МОДИФИКАЦИЯ ОРУЖИЯ"
+STR_RIP_DLGCOLLIMATOR, "Collimator sight", "Коллиматор"
+STR_RIP_DLGGRENLAUNCER, "Grenade launcher", "Гранатомет"
+STR_RIP_DLGOPTICAL, "Optics", "Оптический прицел"
+STR_RIP_DLGSILENCER, "Silencer", "Глушитель"
+STR_RIP_DLGREMOVEALL, "Remove all", "Снять все"
+STR_RIP_DLGAPPLY, "Apply", "Применить"
+STR_RIP_DLGSELECTWEAPONS, "SELECT WEAPONS", "ВЫБЕРИТЕ ВООРУЖЕНИЕ"
+
+STR_RIP_MISSION0, "Destroy the fuel storage facility in the square %1", "Уничтожить топливное хранилище в квадрате %1"
+STR_RIP_MISSION1, "Destroy aircraft radar in the square %1", "Уничтожить авиационный радар в квадрате %1"
+STR_RIP_MISSION2, "Destroy UAV terminal in the square %1", "Уничтожить терминал БПЛА в квадрате %1"
+STR_RIP_MISSION3, "Destroy cargo chopper in the square %1", "Уничтожить грузовой вертолет в квадрате %1"
+STR_RIP_MISSION4, "Capture a tank in a square %1", "Захватите танк в квадрате %1"
+STR_RIP_MISSION5, "Capture a chopper in a square %1", "Захватите вертолет в квадрате %1"
+STR_RIP_MISSION6, "Capture a MHQ in a square %1", "Захватите КШМ в квадрате %1"
+STR_RIP_MISSION7, "Capture a cargo chopper in a square %1", "Захватите грузовой вертолет в квадрате %1"
+STR_RIP_MISSION8, "Return our helicopter to the base from the square %1", "Верните наш вертолет на базу из квадрата %1"
+STR_RIP_MISSION9, "Return our MHQ to the base from the square %1", "Верните нашу КШМ на базу из квадрата %1"
+STR_RIP_MISSION10, "Eliminate the American officer in the square %1", "Уничтожьте американского офицера в квадрате %1"
+STR_RIP_MISSION11, "Eliminate the American spy in the square %1", "Уничтожьте американского шпиона в квадрате %1"
+STR_RIP_MISSION12, "Rescue our pilot in the square %1", "Спасите нашего пилота в квадрате %1"
+STR_RIP_MISSION13, "Rescue our officer in the square %1", "Спасите нашего офицера в квадрате %1"
+STR_RIP_MISSION14, "Arrest an American officer in the square %1", "Захватите в плен американского офицера в квадрате %1"
+STR_RIP_MISSION15, "Destroy the forward camp of Americans in the square %1", "Уничтожить передовой лагерь американцев в квадрате %1"
+STR_RIP_MISSION16, "Destroy the missile launcher in a square %1", "Уничтожить ракетную установку в квадрате %1"
+STR_RIP_MISSION17, "Protect Aviation radar in a square %1. The enemy will be there in 15 minutes.", "Защитите авиационный радар в квадрате %1. Противник будет там через 15 минут."
+STR_RIP_MISSION18, "Protect UAV terminal in a square %1. The enemy will be there in 15 minutes.", "Защитите терминал БПЛА в квадрате %1. Противник будет там через 15 минут."
+STR_RIP_MISSION19, "Protect MHQ in a square %1. The enemy will be there in 15 minutes.", "Защитите КШМ в квадрате %1. Противник будет там через 15 минут."
+STR_RIP_MISSION20, "Clean up %1 from the enemy forces", "Зачистить от сил противника %1."
+STR_RIP_MISSION21, "Clean up %1 from the enemy forces", "Зачистить от сил противника %1."
+STR_RIP_MISSION22, "Clean up %1 from the enemy forces", "Зачистить от сил противника %1."
+STR_RIP_MISSION23, "Destroy aircraft radar in the square %1. Chemical weapons were used in that area. Be careful!", "Уничтожить авиационный радар в квадрате %1. На территории применялось химическое оружие. Будьте осторожны!"
+STR_RIP_MISSION24, "Protect UAV terminal in a square %1. The enemy will be there in 15 minutes. Chemical weapons were used in that area. Be careful!", "Защитите терминал БПЛА в квадрате %1. Противник будет там через 15 минут. На территории применялось химическое оружие. Будьте осторожы!"
+STR_RIP_MISSION25, "Arrest an American officer in the square %1. Chemical weapons were used in that area. Be careful!", "Захватите в плен американского офицера в квадрате %1. На территории применялось химическое оружие. Будьте осторожны!"
+STR_RIP_MISSION26, "Capture a tank in a square %1. Chemical weapons were used in that area. Be careful!", "Захватите танк в квадрате %1. На территории применялось химическое оружие. Будьте осторожны!"
+
+STR_RIP_BRIEFING0, "Mission description", "Описание миссии"
+STR_RIP_BRIEFING1, "<font color = '#60A344'>Description:</font><br/>Mission is based on teamplay and close cooperation between players. Players have to leave the combat area after finishing or failing an objective. Enemy is patrolling both air and ground, so be careful when you're leaving your base.<br/><br/><font color = '#60A344'>Features:</font><br/><br/><font color = '#60A344'>Game menu</font><br/>Game menu is available when you press 'T'. When a new window opens, scroll to select an option or use number keys on your keyboard.<br/><br/><font color = '#60A344'>Weapon selection and modification</font><br/>Players  can choose any weapon on the base and modify it to fit the mission style.<br/><br/><font color = '#60A344'>Gear</font><br/>The rest of equipment is in  the boxes.<br/><br/><font color = '#60A344'>Medicine</font><br/>Only medics can completely heal wounded soldiers. Take good care of them. Medical equipment  is in the medical tent.<br/><br/><font color = '#60A344'>Rally point</font><br/>Commanders can set up spawn points (if that option is enabled in mission  settings), which can be teleported to through an UAV terminal on the base.<br/><br/><font color = '#60A344'>Engineers</font><br/>Engineers can repair vehicles  (except strongly damaged vehicles).<br/>Engineers can lock and unlock vehicles.<br/><br/><font color = '#60A344'>Team scoring</font><br/>Completed task:  +5 points<br/>Failed task: -3 points<br/>Respawn at base: -1 point<br/><br/><font color = '#60A344'>Ammo refill</font><br/>Your armory refills when you  complete an objective. The worse your team status is - the less ammo will be refilled. Failed objectives do not  result in ammo refill.<br/><br/><font color = '#60A344'>Finish 5 task to win.</font><br/><font color = '#60A344'>You will loose if your score reaches -30.</font>", "<font color = '#60A344'>Описание :</font><br/>Миссия рассчитана на командную игру и плотное взаимодействие между игроками. После выполнения(провала) задания всем игрокам необходимо покинуть район боевых действий. По карте передвигаются наземные и воздушные патрули противника, поэтому будьте осторожны, выдвигаясь с базы.<br/><br/><font color = '#60A344'>Особенности :</font><br/><br/><font color = '#60A344'>Игровое меню</font><br/>Игровое меню доступно через кнопку 'T'. В открывшемся списке выбираем необходимый пункт колесом мыши, либо жмем соответствующую цифру на клавиатуре.<br/><br/><font color = '#60A344'>Выбор и модификация оружия</font><br/>На базе игрок может выбрать любое оружие из доступного и модифицировать его под конкретную задачу.<br/><br/><font color = '#60A344'>Снаряжение</font><br/>Остальное снаряжение лежит в ящиках на базе.<br/><br/><font color = '#60A344'>Медицина</font><br/>Полное лечение раненому может оказать только медик. Берегите их. Медснаряжение и медрюкзаки лежат в палатке.<br/><br/><font color = '#60A344'>Точки сбора</font><br/>Командиры групп могут ставить точки сбора (при включении соответствующей опции в настройках), к которым можно телепортироваться с базы через терминал БПЛА.<br/><br/><font color = '#60A344'>Инженеры</font><br/>Инженеры могут ремонтировать технику (кроме сильно поврежденной).<br/>Инженеры могут блокировать\разблокировать технику.<br/><br/><font color = '#60A344'>Система начисления баллов команде</font><br/>Выполненное задание +5 баллов;<br/>Проваленное задание -3 балла;<br/>Возрождение на базе -1 балл;<br/><br/><font color = '#60A344'>Система пополнения боеприпасов</font><br/>За невыполнение задания - количество боеприпасов в ящиках не увеличивается.<br/>За выполненое задание пополнение боеприпасов в зависимости от статуса команды - чем хуже статус, тем меньше боеприпасов добавится в ящики.<br/><br/><font color = '#60A344'>Условие для победы - выполнение 5 заданий.</font><br/><font color = '#60A344'>Условие для поражения - количество баллов команды меньше -30.</font>"
+STR_RIP_BRIEFING2, "Current mission settings", "Текущие настройки миссии"

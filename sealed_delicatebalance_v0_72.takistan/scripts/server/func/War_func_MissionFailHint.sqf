@@ -1,0 +1,1 @@
+hint composeText [parseText format ["<t><img size='2.8' align='center' image='Pics\mission_failed.paa'></t><br /><t size='1.1' shadow='true' color='#FF0000' align='center'>"+localize "STR_RIP_HINT_MISSIONFAIL"+"</t>"]];
